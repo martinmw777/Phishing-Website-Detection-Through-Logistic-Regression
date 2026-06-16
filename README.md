@@ -1,4 +1,4 @@
-**# Phishing Website Detection Through Logistic Regression
+### Phishing Website Detection Through Logistic Regression
 
 A machine learning project that classifies websites as **phishing** or **legitimate** using URL-based features and a Logistic Regression classifier.
 
